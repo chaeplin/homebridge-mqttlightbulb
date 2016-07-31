@@ -21,13 +21,7 @@
       "topics":
       {
         "getOn": 	"<topic to get the status>",
-        "setOn": 	"<topic to set the status>",
-        "getBrightness": 	"<topic to get the brightness>",
-        "setBrightness": 	"<topic to set the brightness>",
-        "getHue": 	"<topic to get the hue>",
-        "setHue": 	"<topic to set the hue>",
-        "getSaturation": 	"<topic to get the saturation>",
-        "setSaturation": 	"<topic to set the saturation>"
+        "setOn": 	"<topic to set the status>"
       }
     }
     ]
